@@ -1,0 +1,1 @@
+Este projeto implementa uma Rede Peer-to-Peer (P2P) que permite a comunicação e compartilhamento de recursos diretamente entre os nós da rede, sem a necessidade de um servidor centralizado. Redes P2P são amplamente utilizadas em várias aplicações, como compartilhamento de arquivos, redes sociais descentralizadas e criptomoedas.
